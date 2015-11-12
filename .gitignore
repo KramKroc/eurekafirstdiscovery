@@ -1,0 +1,12 @@
+.gradle
+.recommenders/
+build/
+bin/
+target/
+.project
+.classpath
+.settings
+.idea
+.DS_Store
+.metadata
+*.iml
